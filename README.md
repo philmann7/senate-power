@@ -10,4 +10,4 @@ The Constitution also established an "upper house" of the legislature, in contra
 
 Let us explore the consequences of this method of apportionment.
 
-See the file [senate_inequality.ipynb](https://nbviewer.org/github/philmann7/senate-power/blob/main/senate_inequality.ipynb) for more.
+View the notebook at: [senate_inequality.ipynb](https://nbviewer.org/github/philmann7/senate-power/blob/main/senate_inequality.ipynb).
